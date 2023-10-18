@@ -2,25 +2,10 @@
 
 I like to build cool websites :)
 
-### Skills
+## My Skills
 
-typescript lol
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-### Projects
+## My Projects
 
 Currently working on [Statify](https://github.com/mechakin/statify), but [VGList](https://vglist.org) is pretty cool too.
-
-<!--
-**mechakin/mechakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
