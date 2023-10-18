@@ -1,4 +1,4 @@
-### Hi, it's mecha!
+## Hi, it's mecha!
 
 I like to build cool websites :)
 
