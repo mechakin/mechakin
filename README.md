@@ -4,7 +4,7 @@ I like to build cool websites :)
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,mysql,nodejs,prisma,python,astro,tailwind,react,nextjs,express,firebase,mongodb)](https://skillicons.dev)
 
 ## My Projects
 
