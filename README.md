@@ -8,7 +8,7 @@ typescript lol
 
 ### Projects
 
-Currently working on [Statify](https://github.com/mechakin/statify), but [VGList](https://github.com/mechakin/vglist) is pretty cool too.
+Currently working on [Statify](https://github.com/mechakin/statify), but [VGList](https://vglist.org) is pretty cool too.
 
 <!--
 **mechakin/mechakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
