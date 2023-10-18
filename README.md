@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, it's mecha!
+
+I like to build cool websites :)
+
+### Skills
+
+typescript lol
+
+### Projects
+
+Currently working on [Statify](https://github.com/mechakin/statify), but [VGList](https://github.com/mechakin/vglist) is pretty cool too.
 
 <!--
 **mechakin/mechakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
