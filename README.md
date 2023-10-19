@@ -8,8 +8,8 @@ I like to build cool websites :)
 
 ## My Projects
 
-VGList[(https://www.vglist.org/)] - A website that allows users to log, rate, review, and discuss different video games. 
+[VGList](https://www.vglist.org/) - A website that allows users to log, rate, review, and discuss different video games. 
 
-Statify[(https://github.com/mechakin/statify/)] - Web app for visualizing personalized Spotify data.
+[Statify](https://github.com/mechakin/statify/) - Web app for visualizing personalized Spotify data.
 
-Couture[(https://coutureshop.xyz/)] - E-commerce website that offers a curated collection of high-end fashion and accessories. 
+[Couture](https://coutureshop.xyz/) - E-commerce website that offers a curated collection of high-end fashion and accessories. 
