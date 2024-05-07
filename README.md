@@ -12,4 +12,4 @@ I like to build cool websites :)
 
 [Statify](https://github.com/mechakin/statify/) - Web app for visualizing personalized Spotify data.
 
-[Couture](https://coutureshop.xyz/) - E-commerce website that offers a curated collection of high-end fashion and accessories. 
+[Couture]((https://github.com/mechakin/couture/)) - E-commerce website that offers a curated collection of high-end fashion and accessories. 
